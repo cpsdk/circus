@@ -1,1 +1,1 @@
-the android sdk for cirucs live.
+the android demo for circus live .
